@@ -1,0 +1,16 @@
+.odd{
+    background-color:  #ff4b84;
+    font-family:'Verdana','DejaVue Sans','sans-serif';
+}
+.num{
+    font-size: 24px;
+}
+#fd{
+    color: #1D94FB;
+    font-size: 24px;
+}
+#sd{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #76FC50;
+}
