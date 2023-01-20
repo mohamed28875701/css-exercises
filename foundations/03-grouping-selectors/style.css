@@ -1,0 +1,12 @@
+.fb,
+.sb{
+    font-size: 24px;
+    font-family: 'Helvetica','Times New Roman','sans-serif';
+}
+.fb{
+    background-color: #343434;
+    color: #F5F5F5;
+}
+.sd{
+    background-color: #F5F5F5;
+}
